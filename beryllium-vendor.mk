@@ -218,7 +218,6 @@ PRODUCT_PACKAGES += \
     fingerprint.fpc.sdm845 \
     fingerprint.goodix.sdm845 \
     vendor.qti.gnss@3.0-impl \
-    vendor.qti.hardware.fm@1.0-impl \
     libaoa \
     libbatching \
     libcacertclient \
@@ -257,11 +256,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@3.0-service \
     vendor.qti.gnss@3.0 \
     vendor.qti.hardware.cacert@1.0 \
-    vendor.qti.hardware.fm@1.0_vendor \
     dirac_resource \
-    fm_helium \
-    libfm-hci \
-    vendor.qti.hardware.fm@1.0 \
     android.hardware.gnss@2.0-service-qti.xml \
     vendor.qti.gnss@3.0-service.xml \
     android.hardware.gnss@2.0-service-qti \
